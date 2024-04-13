@@ -4,7 +4,7 @@
 Assembler
 │
 ├─── README.md
-├─── project_structure.md
+├─── PROJECT_STRUCTURE.md
 ├─── CMakeLists.txt
 ├─── Makefile
 │
