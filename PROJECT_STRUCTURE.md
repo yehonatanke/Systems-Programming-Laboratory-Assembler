@@ -42,9 +42,9 @@ Assembler
       │           └─── pre_assembler.h
       │
       └─── middle_end
-      └─── second_pass
-      ├─── second_pass.c
-      ├─── second_pass.h
-      ├─── second_pass_utilities.c
-      └─── second_pass_utilities.h
+              └─── second_pass
+                     ├─── second_pass.c
+                     ├─── second_pass.h
+                     ├─── second_pass_utilities.c
+                     └─── second_pass_utilities.h
 ```
