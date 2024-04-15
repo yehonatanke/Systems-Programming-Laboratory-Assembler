@@ -18,7 +18,7 @@ OBJS = \
 BUILD_DIR	= build
 OBJ_DIR		= $(BUILD_DIR)/obj
 BIN_DIR		= $(BUILD_DIR)/bin
-ZIP_NAME	= mmn14.zip
+ZIP_NAME	= assembler.zip
 
 .PHONY:	clean build_env all
 
