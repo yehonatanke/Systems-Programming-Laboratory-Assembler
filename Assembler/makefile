@@ -1,4 +1,4 @@
-CC			= gcc
+CC		= gcc
 CFLAGS		= -ansi -pedantic -Wall
 PROG_NAME	= assembler
 OBJS = \
