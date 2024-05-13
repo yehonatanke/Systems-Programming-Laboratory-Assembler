@@ -6,7 +6,7 @@
   <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law">
 </div>
 
-# Assembler Program
+# 14-Bit Assembler
 
 This program is a final project of Systems Programming Laboratory course (C Language / Unix).
 
